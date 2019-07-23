@@ -10,15 +10,15 @@
 "birthDate": "1984-12-30",
 "birthPlace" : {
 	"@type": "Place",
-    "address": {
+	"address": {
   		"@type": "PostalAddress",
 		"addressLocality": "Akron",
 		"addressRegion": "OH",
-        "addressCountry": "United States"}
-				},
+        	"addressCountry": "United States"}
+		},
 "alumniOf": {
-    "@type": "HighSchool",
-    "name": "St. Vincent–St. Mary High School",
-    "sameAs": "https://en.wikipedia.org/wiki/St._Vincent%E2%80%93St._Mary_High_School"}
+	"@type": "HighSchool",
+	"name": "St. Vincent–St. Mary High School",
+	"sameAs": "https://en.wikipedia.org/wiki/St._Vincent%E2%80%93St._Mary_High_School"}
 }
 </script>
