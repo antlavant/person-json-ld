@@ -1,0 +1,11 @@
+<script type="application/ld+json">
+{
+"@context": "http://www.schema.org",
+"@type": "Person",
+"@id": "https://en.wikipedia.org/wiki/LeBron_James",
+"familyName": "James",
+"givenName": "Lebron",
+"nationality": "American",
+"birthDate": "1984-12-30"
+}
+</script>
