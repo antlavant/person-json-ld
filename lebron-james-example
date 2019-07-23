@@ -1,0 +1,24 @@
+<script type="application/ld+json">
+{
+"@context": "http://www.schema.org",
+"@type": "Person",
+"@id": "https://en.wikipedia.org/wiki/LeBron_James",
+"familyName": "James",
+"givenName": "Lebron",
+"alternateName": "King James",
+"nationality": "American",
+"birthDate": "1984-12-30",
+"birthPlace" : {
+	"@type": "Place",
+    "address": {
+  		"@type": "PostalAddress",
+		"addressLocality": "Akron",
+		"addressRegion": "OH",
+        "addressCountry": "United States"}
+				},
+"alumniOf": {
+    "@type": "HighSchool",
+    "name": "St. Vincent–St. Mary High School",
+    "sameAs": "https://en.wikipedia.org/wiki/St._Vincent%E2%80%93St._Mary_High_School"}
+}
+</script>
